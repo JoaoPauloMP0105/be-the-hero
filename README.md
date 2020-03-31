@@ -15,6 +15,7 @@ Axios
 Cors
 Eslint
 Jest
+
 💪 Projeto
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 
